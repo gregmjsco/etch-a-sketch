@@ -1,5 +1,5 @@
 const container = document.querySelector('.container')
-const sizeOfGrid = 4
+const sizeOfGrid = 16
 
 const createGrid = (numOfGrids) => {
     for (let i = 0; i < numOfGrids; i++){
